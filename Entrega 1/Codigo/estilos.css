@@ -1,0 +1,360 @@
+.menus{
+    background-image: linear-gradient(to bottom right, #a3b7b1, #396452);
+    width: 100%;
+    height: 60px;
+    margin: -10px;
+    position: relative;
+}
+
+.nav_menus {
+    text-decoration: none;
+    vertical-align: middle;
+    font-size: 26px;
+    font-style: italic;
+    font-family:Bai Jamjuree;
+    color:black;
+    padding: 1rem;
+}
+
+.nav_menus_elegend {
+    position: relative;
+    top: 12px;
+}
+
+.nav_menus_nosotros {
+    position: relative;
+    left: 65%;
+    top: 12px;
+}
+
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.contenedor_botom {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background-color: black;
+}
+
+.landig_titule {
+    font-family:Bai Jamjuree;
+    font-size: 48px;
+    font-style: bold;
+    color:black;
+    text-align: center;
+    top: 40px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.landig_subtitule {
+    font-family:Bai Jamjuree;
+    font-size: 26px;
+    color:black;
+    text-align: center;
+    letter-spacing: 5px;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.landig_img {
+    position: relative;
+    top: 10px;
+    right: 10px;
+    width: 100%;
+    aspect-ratio: auto;
+}
+
+.black_button {
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    width: 10%;
+    height: 40px;
+    font-family:Bai Jamjuree;
+    font-size: 15px;
+    color:white;
+    border-radius: 5px;
+    border-color: azure;
+    border: 2px;
+    background-color: black;
+}
+
+.orange_button_left {
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    width: 10%;
+    height: 40px;
+    font-family:Bai Jamjuree;
+    font-size: 15px;
+    color:black;
+    border: 2px;
+    border-radius: 5px;
+    border-color: azure;
+    background-color: orange;
+}
+
+.orange_button_rigth {
+    position: absolute;
+    top: 85%;
+    left: 78%;
+    width: 10%;
+    height: 40px;
+    font-family:Bai Jamjuree;
+    font-size: 15px;
+    color:black;
+    border-radius: 5px;
+    border-color: azure;
+    border: 2px;
+    background-color: orange;
+}   
+
+.landing_img_botom {
+    width: 500px;
+    position: relative;
+    left: 0%;
+}
+
+.paragraph_rigth{
+    font-family:Bai Jamjuree;
+    font-size: 25px;
+    color:white;
+    text-align: left;
+    top: 40px;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    width: 20%;
+}
+
+.paragraph_left{
+    font-family:Bai Jamjuree;
+    font-size: 25px;
+    color:white;
+    text-align: left;
+    top: 40px;
+    position: absolute;
+    top: 30%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    width: 20%;
+}
+
+.nosotros_background {
+    background-color: black;
+    font-family: Bai Jamjuree; 
+}
+
+.nosotros_titulo {
+    font-family:Bai Jamjuree;
+    font-size: 25px;
+    color:white;
+    width: 50%;
+    height: 80%;
+    padding-top: 40px ;
+    position: relative;
+    left: 30%;
+}
+
+.contacto_titulo {
+    font-family:Bai Jamjuree;
+    font-size: 25px;
+    color:white;
+    width: 50%;
+    height: 80%;
+    padding-top: 40px ;
+    position: absolute;
+    left: 30%;
+}
+
+.nosotros_parrafo {
+    font-family:Bai Jamjuree;
+    font-size: 18px;
+    color:white;
+    width: 50%;
+    height: 80%;
+    position: relative;
+    left: 30%;
+}
+
+.footer {
+    background-color: darkgrey;
+    margin-top: -16px;
+    height: 70px;
+}
+
+.texto_footer {
+    position:relative;
+    top: 25px;
+    left: 10px;
+    text-decoration: none;
+    vertical-align: middle;
+    font-size: 20px;
+    font-style: italic;
+    font-family:Bai Jamjuree;
+    color:black;
+    padding: 20px;
+}
+
+.footer_nosotros {
+    position: relative;
+    top: 350px
+}
+
+.footer_contacto {
+    position: relative;
+    top: 26px;
+    left:-10px;
+}
+
+.footer_el1sport {
+    position: relative;
+    left:-10px;
+}
+
+.contedor_contacto {
+    position:relative;
+    top: 10px;
+    left:-10px;
+    background-color: black;
+    height: 830px;
+    width: 100%;
+}
+
+.formulario_texto_margen {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.formulario_texto {
+    font-family:Bai Jamjuree;
+    font-size: 20px;
+    color:white;
+    width: 50%;
+    height: 80%;
+    position: relative;
+    top: 150px;
+    left:30%;
+    display: inline;
+}
+
+.el1sport_conteiner{
+    background-color: black;
+    width: 100%;
+    height: 830px;
+    position: relative;
+    top:10px;
+    left:-10px;
+}
+
+#text_area {
+    position: relative;
+    top: 15px;
+    left: 45%;
+    background-color: darkgray;
+    border-radius: 3px;
+    font-family:Bai Jamjuree;
+    font-size: 20px;
+}
+
+.boton_enviar {
+    position: relative;
+    top: 50px;
+    left:47%;
+}
+
+.header_left{
+    text-align:left;
+}
+
+.table, th, td {
+    width: 450px;
+    height: 30px;
+    border-color: white;
+    border-collapse:collapse;
+    font-family:Bai Jamjuree;
+    color: white;
+    padding: 5px;
+}
+
+.table_body{
+    position: relative;
+    top: 20px;
+    left:20%;
+}
+
+.table_Chasis_and_Suspension {
+    position: relative;
+    top: 40px;
+    left:20%; 
+}
+
+.table_Wheels {
+    position: relative;
+    top: 60px;
+    left:20%; 
+}
+.table_Powertrain {
+    position: absolute;
+    top: 20px;
+    left:50%; 
+}
+
+.table_Battery {
+    position: absolute;
+    top: 240px;
+    left:50%; 
+}
+
+.table_Performance{
+    position: absolute;
+    top: 465px;
+    left:50%; 
+}
+
+tr:nth-child(even) {
+    background-color: #606060;
+}
+
+.sede_conteiner {
+    height: 88vh;
+    width: 100%;
+    background-color: black;
+    margin: -10px;
+}
+
+.footer_sede {
+    position: relative;
+    
+}
+
+.sede_mapa {
+    position: relative;
+    top: 90px;
+    height: 85%;    
+}
+
+.sede_texto {
+    font-style: italic;
+    font-family:Bai Jamjuree;
+    color:white;
+    position: absolute;
+    top: 60px;
+    left: 45%;
+    display: block;
+    width: 300px;   
+    margin: 0;
+}
+
